@@ -6,4 +6,6 @@ Building on top of functionality developed by the Microsoft PowerCAT team for th
 <br><br>
 The latest version will be available through its direct folder. All previous released will be grouped under a 'Previous Releases' folder.
 <br><br>
-I will endeavour to ensure that all relevant information is placed in the release notes section
+I will endeavour to ensure that all relevant information is placed in the release notes section. The release is aimed at IT/Power Platform admins, who have the necessary privileges to access the Microsoft CoE toolkit (with all associated security requirements)
+<br><br>
+If you find any issues, please raise an Issue item with a description. Please also feel free to suggest other functionality to include
